@@ -1,8 +1,8 @@
-# GPS Data Reader for Sierra Wireless Location Sensors 🌐📡🛰️
+# GPS Data Reader for Location COM Devices 🌐📡🛰️
 
 ## Description 📝🗺️
 
-This PowerShell script suite is designed to retrieve and display GPS data from Sierra Wireless Location Sensors on Windows systems. It utilizes:
+This PowerShell script suite is designed to retrieve and display GPS data from Location COM devices on Windows systems. It utilizes:
 
 - **Windows Location API** 🌍🧭 to fetch processed location data if available.
 - **COM Port Reading** 🔌📟 to capture raw NMEA sentences from GPS devices connected via serial ports.
